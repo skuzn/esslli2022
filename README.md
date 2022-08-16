@@ -9,5 +9,5 @@ Iteration, or Kleene star, is one of the most mysterious algebraic operation tha
 
 ## Reading
 * For Lectures 1 and 2:
-** A. Das, D. Pous. [A cut-free cyclic proof system for Kleene algebra](https://www.anupamdas.com/wp/a-cut-free-cyclic-proof-system-for-kleene-algebra/), in: Proc. Tableaux '17, LNCS vol. 10501, Springer, 2017, pp. 261-277.
-** A. Das, D. Pous. [Non-well-founded proof theory for (Kleene+action) (algebras+lattices)](https://www.anupamdas.com/wp/non-wellfounded-proof-theory-for-kleene-algebra-and-extensions/), in: Proc. CSL 2018, LIPIcs vol. 119, Dagstuhl, 2018, pp. 19:1-19:18.
+  * A. Das, D. Pous. [A cut-free cyclic proof system for Kleene algebra](https://www.anupamdas.com/wp/a-cut-free-cyclic-proof-system-for-kleene-algebra/), in: Proc. Tableaux '17, LNCS vol. 10501, Springer, 2017, pp. 261-277.
+  * A. Das, D. Pous. [Non-well-founded proof theory for (Kleene+action) (algebras+lattices)](https://www.anupamdas.com/wp/non-wellfounded-proof-theory-for-kleene-algebra-and-extensions/), in: Proc. CSL 2018, LIPIcs vol. 119, Dagstuhl, 2018, pp. 19:1-19:18.
