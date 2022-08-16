@@ -6,6 +6,7 @@ Iteration, or Kleene star, is one of the most mysterious algebraic operation tha
 
 ## Slides
 * [Lecture 1](https://raw.githubusercontent.com/skuzn/esslli2022/main/esslli2022_slides1.pdf), Monday August 15
+* [Lecture 2](https://raw.githubusercontent.com/skuzn/esslli2022/main/esslli2022_slides2.pdf), Tuesday August 16
 
 ## Reading
 * For Lectures 1 and 2:
