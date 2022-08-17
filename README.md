@@ -14,6 +14,10 @@ Iteration, or Kleene star, is one of the most mysterious algebraic operation tha
   * A. Das, D. Pous. [A cut-free cyclic proof system for Kleene algebra](https://www.anupamdas.com/wp/a-cut-free-cyclic-proof-system-for-kleene-algebra/), in: Proc. Tableaux '17, LNCS vol. 10501, Springer, 2017, pp. 261-277.
   * A. Das, D. Pous. [Non-well-founded proof theory for (Kleene+action) (algebras+lattices)](https://www.anupamdas.com/wp/non-wellfounded-proof-theory-for-kleene-algebra-and-extensions/), in: Proc. CSL 2018, LIPIcs vol. 119, Dagstuhl, 2018, pp. 19:1-19:18.
 * For Lecture 3:
-  * D. Kozen. [On the complexity of reasoning in Kleene algebra](https://www.cs.cornell.edu/~kozen/Papers/horn.pdf). Inform. Comput., 179:152-162, 2022.
+  * D. Kozen. [On the complexity of reasoning in Kleene algebra](https://www.cs.cornell.edu/~kozen/Papers/horn.pdf). Inform. Comput., 179:152-162, 2002.
 * For Lecture 4:
   * S.L. Kuznetsov. Commutative action logic. J. Logic Comput., exac008, 2022. [doi](https://doi.org/10.1093/logcom/exac008) [arXiv](https://arxiv.org/abs/2102.11639)
+* For Lecture 5:
+  * W. Buszkowski. [On action logic](http://buszko.home.amu.edu.pl/actlog2.pdf): equational theories of action algebras, J. Logic Comput., 17(1):199-217, 2007.
+  * W. Buszkowski, E. Palka. [Infinitary action logic](http://buszko.home.amu.edu.pl/actlogsl2.pdf): complexity, models, grammars, Stud. Logica, 89(1):1-18, 2008.
+  * S. Kuznetsov. Action logic is undecidable. ACM Trans. Comput. Logic, 22:2,10, 2021. [doi](https://doi.org/10.1145/3445810) [arXiv](https://arxiv.org/abs/1912.11273)
