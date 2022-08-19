@@ -9,6 +9,7 @@ Iteration, or Kleene star, is one of the most mysterious algebraic operation tha
 * [Lecture 2](https://raw.githubusercontent.com/skuzn/esslli2022/main/esslli2022_slides2.pdf), Tuesday August 16
 * [Lecture 3](https://raw.githubusercontent.com/skuzn/esslli2022/main/esslli2022_slides3.pdf), Wednesday August 17
 * [Lecture 4](https://raw.githubusercontent.com/skuzn/esslli2022/main/esslli2022_slides4.pdf), Thursday August 18
+* [Lecture 5](https://raw.githubusercontent.com/skuzn/esslli2022/main/esslli2022_slides5.pdf), Friday August 19
 
 
 ## Reading
@@ -23,3 +24,4 @@ Iteration, or Kleene star, is one of the most mysterious algebraic operation tha
   * W. Buszkowski. [On action logic](http://buszko.home.amu.edu.pl/actlog2.pdf): equational theories of action algebras, J. Logic Comput., 17(1):199-217, 2007.
   * W. Buszkowski, E. Palka. [Infinitary action logic](http://buszko.home.amu.edu.pl/actlogsl2.pdf): complexity, models, grammars, Stud. Logica, 89(1):1-18, 2008.
   * S. Kuznetsov. Action logic is undecidable. ACM Trans. Comput. Logic, 22:2,10, 2021. [doi](https://doi.org/10.1145/3445810) [arXiv](https://arxiv.org/abs/1912.11273)
+  * S.L. Kuznetsov, S.O. Speranski. Infinitary action logic with exponentiation, Ann. Pure Appl. Logic, 173(2):103057, 2022. [doi](https://doi.org/10.1016/j.apal.2021.103057) [arXiv](https://arxiv.org/abs/2001.06863)
